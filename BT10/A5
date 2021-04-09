@@ -1,0 +1,8 @@
+bai A4
+với b là biến kiểu Point
+địa chỉ của x chính là địa chỉ của b
+địa chỉ của y là kế tiếp địa chỉ của x
+
+bai A5
+khi biến struct được sao chép có trường dữ liệu là mảng, là một struct khác
+thì truct sao chép có trường dữ liệu là mảng, struct tương ứng
